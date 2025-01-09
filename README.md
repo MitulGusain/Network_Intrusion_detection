@@ -1,2 +1,2 @@
 # Network_Intrusion_detection
-To preprocess data for optimal feature selection, addressing missing values, duplicates, and outliers. To implement and fine-tune multiple machine learning classifiers for comparative analysis. To evaluate the performance of an ensemble Voting Classifier in achieving superior classification accuracy.
+The Network Intrusion Detection System (NIDS) is a software-based tool designed to monitor and analyze network traffic to detect suspicious activities or potential security threats in real time. By leveraging advanced machine learning techniques and rule-based detection mechanisms, this system aims to provide a robust solution for identifying unauthorized access, malicious traffic, and network anomalies.
